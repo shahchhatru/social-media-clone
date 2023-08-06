@@ -16,7 +16,7 @@ class Profile(models.Model):
 
     # this function is just the naming of the model.
     def __str__(self):
-        return self.user.username #username
+        return self.user.username #username created
 
 
  
