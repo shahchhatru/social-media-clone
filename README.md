@@ -11,7 +11,7 @@ To install all project dependencies, run the following command:
 pipenv install
 ```
 
-##Activate the Environment
+## Activate the Environment
 
 To activate the virtual environment, use the following command:
 
@@ -19,7 +19,7 @@ To activate the virtual environment, use the following command:
 pipenv shell
 ```
 
-##Running the Project
+## Running the Project
 Navigate to the project directory:
 
 ```bash
@@ -33,9 +33,20 @@ pipenv run python3 manage.py runserver
 
 ```
 
+## SignUpscreen view
 
-![Email validation](./images/loginscreenview.png)
+![SignUp view](./images/loginscreenview.png)
+
+##  Email validation
 
 ![Email validation](./images/EmailError.png)
 
+## Password validation
+
 ![password validation](./images/passwordLengthAuthentication.png)
+
+## Login page view
+
+![Login Screen](./images/loginpage.png)
+
+![Login Credentials validation](./images/loginInvalidCredentialspng.png)
